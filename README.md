@@ -1,2 +1,2 @@
 # quotes
-Collection of my favorite quotes.
+collection of my favorite quotes
